@@ -1,0 +1,7 @@
+name: Rust_Tutorials
+
+dependencies:
+  - python
+  - ipython
+  - rust
+  - notebook
