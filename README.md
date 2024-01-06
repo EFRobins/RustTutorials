@@ -1,30 +1,29 @@
 # RustTutorials
-Rust Learning Repository
-
 This repository is dedicated to my journey of learning Rust programming language. The primary objectives are to gain proficiency in Rust, understand best practices, and ultimately prepare for a larger project. I will be following the resources mentioned below:
 
-    The Rust Book:
-        The official Rust programming language book.
-        The Rust Book
+1. **The Rust Book:**
+   - The official Rust programming language book.
+   - [The Rust Book](https://doc.rust-lang.org/book/)
 
-    Rust by Example:
-        A collection of runnable Rust examples that illustrate various concepts.
-        Rust by Example
+2. **Rust by Example:**
+   - A collection of runnable Rust examples that illustrate various concepts.
+   - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
-    Rustlings:
-        The Rustlings repository, providing a set of small exercises to reinforce Rust concepts.
-        Rustlings Repository
+3. **Rustlings:**
+   - The Rustlings repository, providing a set of small exercises to reinforce Rust concepts.
+   - [Rustlings Repository](https://github.com/rust-lang/rustlings)
 
-Structure of the Repository
+## Structure of the Repository
 
-    Code: This directory will contain the code files related to exercises, examples, and projects as I progress through my learning journey.
+- **Code:** This directory will contain the code files related to exercises, examples, and projects as I progress through my learning journey.
 
-    Notes: I will maintain documentation and notes on Rust best practices, concepts, and any challenges faced during the learning process.
+- **Notes:** I will maintain documentation and notes on Rust best practices, concepts, and any challenges faced during the learning process.
 
-Progress Tracking
+## Progress Tracking
 
 I'll use GitHub Issues and Projects to track my progress, document any questions, and manage the overall learning plan.
-Contributions and Feedback
+
+## Contributions and Feedback
 
 Feel free to open issues or pull requests if you notice any improvements, have suggestions, or want to discuss Rust-related topics. I welcome any feedback from the community to enhance my learning experience.
 
